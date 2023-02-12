@@ -36,3 +36,71 @@
     transform: rotate(360deg);
   }
 }
+.backImg{
+  background-image: url(./Assets/index.jpg);
+  height: 1000vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.SayHelloImg{
+  background-image: url(./Assets/SayHello1.png);
+  height: 1000vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.AddNumbersImg{
+  background-image: url(./Assets/add2numbers.png);
+  height: 1000vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.AskQuestionImg{
+  background-image: url(./Assets/askingquestions.jpg);
+  height: 1000vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.GreaterThanImg {
+  background-image: url(./Assets/greaterThanLessThan.jpg);
+  height: 1000vh;
+  background-repeat: no-repeat;
+  background-size: fit;
+}
+.MadLibImg {
+  background-image: url(./Assets/madlib.jpg);
+  height: 1000vh;
+  background-repeat: no-repeat;
+  background-size: fit;
+}
+.OddOrEvenImg {
+  background-image: url(./Assets/oddoreven.jpg);
+  height: 1000vh;
+  background-repeat: no-repeat;
+  background-size: fit;
+
+}
+.ReverseImg {
+  background-image: url(./Assets/ReverseIt.png);
+  height: 1000vh;
+  background-repeat: no-repeat;
+  background-size: fit;
+}
+.StudentsImg {
+  background-image: url(./Assets/StudentDirectory.png);
+  height: 1000vh;
+  background-repeat: no-repeat;
+  background-size: fit;
+}
+.letters {
+  color: wheat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.center-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
